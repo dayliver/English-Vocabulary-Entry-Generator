@@ -35,7 +35,7 @@ let Entries = {
 Refer to test.js. It shows how a sentence is structured.
 
 ## References
-Corpus data was collected from [http://ucrel.lancs.ac.uk/bncfreq/].
+Corpus data was collected from http://ucrel.lancs.ac.uk/bncfreq/.
 
 
 
