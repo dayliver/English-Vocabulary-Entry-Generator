@@ -13,6 +13,10 @@ Change the path of the output file inside the 'entrizer.js' to your taste.
 ```
 let filepath = 'R:/entries.txt' // this is the default value
 ```
+Run the entrizer with the command below, and then you can get the JSON.
+```
+node ./entrizer.js
+```
 
 ## Structure
 The main object consists of a lot of entries.
